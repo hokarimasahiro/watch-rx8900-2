@@ -1,0 +1,28 @@
+{
+    "name": "watch-rx8900-2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6",
+        "pxt-rx8900": "github:hokarimasahiro/pxt-rx8900#0e267b659441e4fbd1db2f8747e2a23fbe11a77e",
+        "pxt-watchfont": "github:hokarimasahiro/pxt-watchfont#c82d726b0604a1823545b45a3d2fa6e6748a5712"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.61",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
